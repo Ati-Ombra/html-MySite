@@ -1,6 +1,9 @@
+html {
+  zoom: 0.75;
+}
+
 body {
   color: #705c53;
-  zoom: 0.75;
 }
 
 .btn {
@@ -20,7 +23,6 @@ body {
 
 .section-a {
   background-color: #eddfe0;
-  height: 100vh;
   grid-area: 1/1/2/2;
 }
 
@@ -42,7 +44,6 @@ body {
 
 .section-b {
   background-color: #f5f5f7;
-  height: 100vh;
   grid-area: 1/2/2/3;
 }
 
