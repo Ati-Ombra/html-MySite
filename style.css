@@ -99,15 +99,14 @@ body {
 
 /*Contacts*/
 .container-contact {
-  height: 100vh;
+  justify-content: center;
+  align-content: center;
   align-items: center;
+  height: 133vh;
 }
 .container-item-contact {
   display: flex;
   align-items: center;
-
-  height: 50vh;
-  width: 90rem;
 }
 
 .contacts-card {
