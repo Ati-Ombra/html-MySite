@@ -49,7 +49,6 @@ body {
 
 /*About*/
 .container-about {
-  height: 100vh;
   justify-content: center;
   align-content: center;
 }
@@ -64,7 +63,6 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 3fr;
-  height: 100vh;
 }
 
 .language {
